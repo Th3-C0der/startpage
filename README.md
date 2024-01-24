@@ -200,4 +200,6 @@ The background image changes based on time.
 - [x] Dynamic Background   
 - [x] Cleaner code<sup>WIP</sup>  
 - [x] Keyboard navigation  
-- [x] Swipe gestures for mobile  
+- [x] Swipe gestures for mobile
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Th3-C0der&label=Profile%20views&color=00ff00&style=flat" alt="Th3-C0der" /> </p>
