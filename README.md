@@ -57,7 +57,7 @@
 + `a/` + `search query` to search a product in amazon.
 + `e/` + `search query` to search a product in ebay.
 + `y/` + `search query` to search a video in youtube.
-+ `n/` + `comic id` to search a "comic" in a certain "comic" website.
++ `t/` + `search query` to search in Th3-C0der's Search Engine.
 
 ## Customization and Settings
 
