@@ -53,6 +53,7 @@ class Config {
 			'th3-search': {
 				name: 'Th3-Search',
 				prefix: 'https://th3-c0der.github.io/search#gsc.tab=0&gsc.q='
+			},
 			'ecosia': {
 				name: 'Ecosia',
 				prefix: 'https://www.ecosia.org/search?q='
