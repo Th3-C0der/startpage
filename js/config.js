@@ -28,7 +28,7 @@ class Config {
 				urlPrefix: 'https://youtube.com/results?search_query='
 			},
 			'n/': {
-				urlPrefix: 'https://nhentai.net/g/'	
+				urlPrefix: 'https://nhentai.net/search/?q='	
 			}
 		};
 
