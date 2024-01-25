@@ -30,6 +30,9 @@ class Config {
 			'n/': {
 				urlPrefix: 'https://nhentai.net/search/?q='	
 			}
+			'th3': {
+				urlPrefix: 'https://th3-c0der.github.io/search#gsc.tab=0&gsc.q='
+			},
 		};
 
 		return quickSearchData;
