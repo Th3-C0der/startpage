@@ -27,9 +27,6 @@ class Config {
 			'y/': {
 				urlPrefix: 'https://youtube.com/results?search_query='
 			},
-			'n/': {
-				urlPrefix: 'https://nhentai.net/search/?q='	
-			},
 			't/': {
 				urlPrefix: 'https://th3-c0der.github.io/search#gsc.tab=0&gsc.q='
 			}
@@ -47,7 +44,7 @@ class Config {
 				prefix: 'https://www.google.com/search?q='
 			},
 			'duckduckgo': {
-				name: 'Duckduckgo',
+				name: 'DuckDuckGo',
 				prefix: 'https://duckduckgo.com/?q='
 			},
 			'th3-search': {
@@ -142,7 +139,7 @@ class Config {
 				category: 'design'
 			},
 			{
-				site: 'Duckduckgo',
+				site: 'DuckDuckGo',
 				icon: 'duckduckgo',
 				url: 'https://duckduckgo.com/',
 				category: 'development'
@@ -202,10 +199,10 @@ class Config {
 				category: 'information'
 			},
 			{
-				site: '4chan',
-				icon: '4chan',
-				url: 'https://4chan.org/',
-				category: 'social'
+				site: 'Th3-C0der',
+				icon: 'th3-c0der',
+				url: 'https://th3-c0der.github.io/',
+				category: 'information'
 			},
 			{
 				site: 'Discord',
@@ -343,11 +340,6 @@ class Config {
 		// A list of websites that will be generated and put on the dock
 		const dockSites = [
 			{
-				site: 'Reddit',
-				icon: 'reddit',
-				url: 'https://reddit.com/'
-			},
-			{
 				site: 'Github',
 				icon: 'github',
 				url: 'https://github.com/'
@@ -373,14 +365,14 @@ class Config {
 				url: 'https://drive.google.com/'
 			},
 			{
-				site: 'Twitter',
+				site: 'X(Twitter)',
 				icon: 'twitter',
-				url: 'https://twitter.com/'
+				url: 'https://X.com/'
 			},
 			{
-				site: 'Material.io',
-				icon: 'materialio',
-				url: 'https://material.io/'
+				site: 'Reddit',
+				icon: 'reddit',
+				url: 'https://reddit.com/'
 			}
 		];
 
