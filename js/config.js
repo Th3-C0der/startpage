@@ -103,7 +103,7 @@ class Config {
 				category: 'media'
 			},
 			{
-				site: 'GDrive',
+				site: 'Google Drive',
 				icon: 'gdrive',
 				url: 'https://drive.google.com/',
 				category: 'cloud'
@@ -187,6 +187,18 @@ class Config {
 				category: 'design'
 			},
 			{
+				site: 'ChatGPT',
+				icon: 'chatgpt',
+				url: 'https://chat.openai.com/',
+				category: 'information'
+			},
+			{
+				site: 'Google Bard',
+				icon: 'gbard',
+				url: 'https://bard.google.com/',
+				category: 'information'
+			},
+			{
 				site: 'Netflix',
 				icon: 'netflix',
 				url: 'https://netflix.com/',
@@ -217,9 +229,9 @@ class Config {
 				category: 'media'
 			},
 			{
-				site: 'Ebay',
-				icon: 'ebay',
-				url: 'https://ebay.com/',
+				site: 'Flipkart',
+				icon: 'flipkart',
+				url: 'https://flipkart.com/',
 				category: 'shop'
 			},
 			{
@@ -342,7 +354,7 @@ class Config {
 			{
 				site: 'Github',
 				icon: 'github',
-				url: 'https://github.com/'
+				url: 'https://github.com/Th3-C0der'
 			},
 			{
 				site: 'Th3-C0der',
@@ -360,14 +372,19 @@ class Config {
 				url: 'https://youtube.com/'
 			},
 			{
-				site: 'GDrive',
-				icon: 'gdrive',
-				url: 'https://drive.google.com/'
-			},
-			{
 				site: 'X(Twitter)',
 				icon: 'twitter',
 				url: 'https://X.com/'
+			},
+			{
+				site: 'ChatGPT',
+				icon: 'chatgpt',
+				url: 'https://chat.openai.com/'
+			},
+			{
+				site: 'Google Bard',
+				icon: 'gbard',
+				url: 'https://bard.google.com/'
 			},
 			{
 				site: 'Reddit',
