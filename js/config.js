@@ -346,9 +346,9 @@ class Config {
 				url: 'https://github.com/'
 			},
 			{
-				site: 'Facebook',
-				icon: 'facebook',
-				url: 'https://facebook.com/'
+				site: 'Th3-C0der',
+				icon: 'th3-c0der',
+				url: 'https://th3-c0der.github.io/'
 			},
 			{
 				site: 'Gmail',
