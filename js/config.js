@@ -193,9 +193,9 @@ class Config {
 				category: 'information'
 			},
 			{
-				site: 'Google Bard',
-				icon: 'gbard',
-				url: 'https://bard.google.com/',
+				site: 'Gemini',
+				icon: 'gemini',
+				url: 'https://gemini.google.com/',
 				category: 'information'
 			},
 			{
@@ -382,9 +382,9 @@ class Config {
 				url: 'https://chat.openai.com/'
 			},
 			{
-				site: 'Google Bard',
-				icon: 'gbard',
-				url: 'https://bard.google.com/'
+				site: 'Gemini',
+				icon: 'gemini',
+				url: 'https://gemini.google.com/'
 			},
 			{
 				site: 'Reddit',
